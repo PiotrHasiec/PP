@@ -1,6 +1,10 @@
 Tekst
 <<<<<<< HEAD
+<<<<<<< HEAD
 Feature 1
 =======
 F_2
 >>>>>>> feature_2
+=======
+F_3
+>>>>>>> feature_3
